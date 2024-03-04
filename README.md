@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nihalnouha](https://github.com/nihalnouha)
 
-- 💬 Ask me about **solidity,Ruby On rails,javascript,HTML5,CSS**
+- 💬 Ask me about **solidity,Ruby On rails,javascript,HTML5,CSS,Python**
 
 - 📫 How to reach me **elhaounouhaila@gmail.com**
 
