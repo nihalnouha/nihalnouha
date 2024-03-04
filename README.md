@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nouhaila Elhaou</h1>
 <h3 align="center">A passionate fullStack developer from Morocco</h3>
 
-- 🔭 I’m currently working on [Kickitnow](https://github.com/Ayoubelkabli/kickitnowproject/tree/master)
+- 🔭 I’m currently working on Project in data analytics.
 
-- 🌱 I’m currently learning **Ruby On rails**
+- 🌱 I’m currently learning **Python **
 
 - 👨‍💻 All of my projects are available at [https://github.com/nihalnouha](https://github.com/nihalnouha)
 
