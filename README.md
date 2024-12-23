@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nouhaila Elhaou</h1>
 <h3 align="center">A passionate fullStack developer from Morocco</h3>
 
-- 🔭 I’m currently working on Project in data engineering.
+- 🔭 I’m currently working on Project in data Engineering & data Science .
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [https://github.com/nihalnouha](https://github.com/nihalnouha)
 - 💬 Ask me about **solidity, Ruby On Rails, JavaScript, HTML5, CSS, Python**
