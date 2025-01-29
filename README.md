@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouhaila Elhaou</h1>
-<h3 align="center">A passionate fullStack developer from Morocco</h3>
+<h3 align="center">A passionate Data engineering from Morocco</h3>
 
 - 🔭 I’m currently working on Project in data Engineering & data Science .
 - 🌱 I’m currently learning **Python**
